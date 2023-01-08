@@ -21,7 +21,7 @@ export default async function handler() {
           display: 'flex',
         }}
       >
-        👋, 🌎
+        Create dynamic social cards with NextJS, explained 🔮🚀
       </div>
     ),
     {
