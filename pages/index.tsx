@@ -36,7 +36,9 @@ export default function Page() {
           }
         />
       </Head>
-      <h1>A page with Open Graph Image.</h1>
+      <h1>The idea was to show the picture in the twitter thread, but while you're here, checkout
+        my app: https://doinit.today or my personal site: https://ilaffey.com
+      </h1>
     </div>
   )
 }
