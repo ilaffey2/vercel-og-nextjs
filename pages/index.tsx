@@ -19,9 +19,10 @@ export default function Page() {
           }
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="ilaffey.com" />
+        <meta name="twitter:site" content="@ilaffey2" />
         <meta name="twitter:creator" content="@ilaffey2" />
         <meta name="twitter:title" content="Create dynamic social cards with NextJS, explained 🔮🚀"/>
+        <meta name="twitter:description" content="Create dynamic social cards with NextJS, explained 🔮🚀"></meta>
         <meta
           name="twitter:image"
           content={
